@@ -6,17 +6,5 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Estou criando um podcast que vai abordar três pilares que se conectam e se complementam: Tecnologia, Dados e Gestão. Preciso que você sugira nomes criativos para o podcast, que: despertem a curiosidade do público, transmitam clareza sobre o conteúdo abordado, e reflitam a união entre tecnologia, dados e gestão. Regras: O nome deve ser curto e direto (máximo 3 palavras). Deve estar claramente relacionado às três temáticas. Cada sugestão deve vir acompanhada de um subtítulo explicativo (por exemplo: “Título — Subtítulo”). Objetivo final: criar um nome que soe moderno, relevante e que conecte as três áreas de forma coesa e interessante.                                                        |
-| conteúdo | Quero criar um roteiro para um podcast curto (máx. 3 minutos) que traga uma curiosidade e uma dica prática relacionada aos temas Tecnologia, Dados e Gestão. A linguagem deve ser simples e direta, como se o apresentador estivesse falando com o ouvinte, deve ser capaz de prender a atenção do ouvinte em poucos segundos e que ao final seja capaz de fazer o ouvinte refletir, pesquisar ou aplicar o tema abordado.
-
-Estrutura a ser seguida:
-
-Abertura: (uma pergunta ou curiosidade intrigante)
-
-Explicação curta: o que é o tema e por que é interessante
-
-Curiosidade: dado curioso ou fato pouco conhecido
-
-Dica prática: como aplicar esse conhecimento
-
-Fechamento: reflexão final ou convite para o próximo episódio |
+| conteúdo | Quero criar um roteiro para um podcast curto (máx. 3 minutos) que traga uma curiosidade e uma dica prática relacionada aos temas Tecnologia, Dados e Gestão. A linguagem deve ser simples e direta, como se o apresentador estivesse falando com o ouvinte, deve ser capaz de prender a atenção do ouvinte em poucos segundos e que ao final seja capaz de fazer o ouvinte refletir, pesquisar ou aplicar o tema abordado. Estrutura a ser seguida: Abertura: (uma pergunta ou curiosidade intrigante Explicação curta: o que é o tema e por que é interessante Curiosidade: dado curioso ou fato pouco conhecido Dica prática: como aplicar esse conhecimento Fechamento: reflexão final ou convite para o próximo episódio |
 
